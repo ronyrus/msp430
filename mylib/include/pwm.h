@@ -20,4 +20,4 @@ typedef enum {
 void pwm_init(pwm_duty_cycle_t initial_level);
 void pwd_set(pwm_duty_cycle_t level);
 
-#endif /* PWM_H_ */
+#endif

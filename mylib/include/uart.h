@@ -20,4 +20,4 @@ int uart_recv_buf(unsigned char *buf, int len);
 void uart_blk_recv(unsigned char *c);
 
 
-#endif /* UART_H_ */
+#endif
